@@ -173,3 +173,19 @@
 // }else{
 //     document.write("<h1>“Incorrect password”</h1>")
 // }
+// var studentNames = [];
+// var stringArray = ["apple" , "bat" , "kite" ,"bowl" , "egg"];
+// var numberArray = [20 , 46 , 56 , 23 , 99];
+// var booleanArray = ["true" , "false"];
+// var mixedArray = [ " " , "apple" , "kite" , 20 , 60 , 33 , 56 , "true" , "fales"];
+// var eduacationQualification = [" SSC "  , " HSC " , " BCS " , " BS " , " BCOM " , " MS " , " M.Phil " , " PhD "];
+// document.write("<h1>" + eduacationQualification + "</h1>"); 
+// var studentNames = [" Michael " , " john " , " Tony "];
+// var studentScore = [320 , 280 , 420];
+// var totalScore = [500];
+// var michaelResult = studentScore[0]/totalScore[0]*100;
+// document.write("<h1> Score of Michael is : " + studentScore[0] + " percentage " + michaelResult + "% </h1>");
+// var johnResult = studentScore[1]/totalScore[0]*100;
+// document.write("<h1> Score of John is : " + studentScore[1] + " percentage " + johnResult + "% </h1>");
+// var tonyResult = studentScore[2]/totalScore[0]*100;
+// document.write("<h1> Score of Tony is : " + studentScore[2] + " percentage " + tonyResult + "% </h1>");
