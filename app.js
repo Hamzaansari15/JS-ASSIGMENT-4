@@ -3,7 +3,6 @@
 //     alert ("Welcome to the city of light");
 // }else {
 //     alert("You are not from karachi");
-// // }
 // var gender = prompt("enter your gender");
 // if(gender === "male"){
 //     alert("Good morning sir");
@@ -143,4 +142,34 @@
 // }if (operator === "%" ) {
 //     var result = a % b;
 //     document.write("<h1> The percentage of " + a + " & " + b + " is " + result );
+// }
+//  var letter = prompt("Enter the letter");
+
+//  if (letter.toUpperCase() === letter) {
+//    document.write("<h1> letter is uppercase </h1>");
+//  } if(letter.toLowerCase === letter) {
+//    document.write("<h1> letter is lowercase </h1>");
+//  }
+// var a = +prompt("Enter the number");
+// if (a > 0) {
+//     document.write("<h1> The number is positive </h1>");
+// } if (a < 0) {
+//     document.write("<h1> The number is negative </h1>");
+// } if (a === 0) {
+//     document.write("<h1> The number is zero </h1>");
+
+// var letter = prompt("Enter the letter");
+// if ( letter == A || letter == a || letter == O || letter == o || letter == I || letter == i || E || letter == e || letter == U || letter == u){
+//     document.write("<h1> It is true </h1>");
+// }else{
+//     document.write("<h1> It is false </h1>");
+// }
+// var password1 = "hamza15";
+// var password2 = prompt("Enter your password");
+// if (password2 === password1) {
+//     document.write("<h1>“Correct! The password you entered matches the original password”.</h1>")
+// }else if(password2 === "" || password2 === " " || password2 === "  " || password2 === "   " || password2 === "    "){
+//     document.write("<h1>“ Please enter your password” </h1>")
+// }else{
+//     document.write("<h1>“Incorrect password”</h1>")
 // }
