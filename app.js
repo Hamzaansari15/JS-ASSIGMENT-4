@@ -125,3 +125,22 @@
 // }if (temp > 10 && temp < 20) {
 //     document.write("<h1>“OMG! Today's weather is so Cool.”</h1>")
 // }
+// var a = +prompt("Enter first number");
+// var operator = prompt("Choose your operater in +,-,*, / & %");
+// var b = +prompt("Enter your second number");
+// if (operator === "+" ) {
+//     var result = a + b;
+//     document.write("<h1> The sum of " + a + " & " + b + " is " + result );
+// }if (operator === "-" ) {
+//     var result = a - b;
+//     document.write("<h1> The substraction of " + a + " & " + b + " is " + result );
+// }if (operator === "*" ) {
+//     var result = a * b;
+//     document.write("<h1> The multiplication of " + a + " & " + b + " is " + result );
+// }if (operator === "/" ) {
+//     var result = a / b;
+//     document.write("<h1> The division of " + a + " & " + b + " is " + result );
+// }if (operator === "%" ) {
+//     var result = a % b;
+//     document.write("<h1> The percentage of " + a + " & " + b + " is " + result );
+// }
