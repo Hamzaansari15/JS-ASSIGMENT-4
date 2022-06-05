@@ -189,13 +189,13 @@
 // document.write("<h1> Score of John is : " + studentScore[1] + " percentage " + johnResult + "% </h1>");
 // var tonyResult = studentScore[2]/totalScore[0]*100;
 // document.write("<h1> Score of Tony is : " + studentScore[2] + " percentage " + tonyResult + "% </h1>");
-var colorNames = ["Red","Blue","Yellow","Purple"];
-document.write("<h1>" + colorNames + "</h1>");
+// var colorNames = ["Red","Blue","Yellow","Purple"];
+// document.write("<h1>" + colorNames + "</h1>");
 // var addingColour = prompt("What colour you should be added");
 // colorNames.unshift(addingColour);
 // document.write("<h1>" + colorNames + "</h1>");
 // colorNames.push = prompt("What color you should be added");
-colorNames.splice(0,0,"Orangr","Pink");
-document.write("<h1>" + colorNames + "</h1>");
-colorNames.pop(colorNames)
-document.write("<h1>" + colorNames + "</h1>");
+// colorNames.splice(0,0,"Orangr","Pink");
+// document.write("<h1>" + colorNames + "</h1>");
+// colorNames.pop(colorNames)
+// document.write("<h1>" + colorNames + "</h1>");
